@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bhadoo Cloud - Upload to Google Drive</title>
+    <title>fansubber Cloud - Upload to Google Drive</title>
     <meta name="description" content="Upload Files using URL to Google Drive the easy way.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -66,7 +66,7 @@
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down">
-			<img border="0" alt="Bhadoo Cloud" src="" height="30px">
+			<img border="0" alt="fansubber Cloud" src="" height="30px">
                         </div>
                         <div class="brand-text brand-small"><strong>BCD</strong></div>
                     </a>
