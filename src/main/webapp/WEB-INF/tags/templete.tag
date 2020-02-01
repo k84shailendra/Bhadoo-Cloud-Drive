@@ -66,7 +66,7 @@
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down">
-			<img border="0" alt="Bhadoo Cloud" src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="30px">
+			<img border="0" alt="Bhadoo Cloud" src="" height="30px">
                         </div>
                         <div class="brand-text brand-small"><strong>BCD</strong></div>
                     </a>
