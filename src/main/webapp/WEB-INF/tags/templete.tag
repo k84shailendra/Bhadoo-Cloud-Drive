@@ -14,11 +14,11 @@
     <meta name="description" content="Upload Files using URL to Google Drive the easy way.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
-    <link rel=apple-touch-icon href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
-    <link rel="shortcut icon" href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
-    <link rel=apple-touch-icon sizes=180x180 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png">
-    <link rel=icon type="image/png" sizes=32x32 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.14/icons/favicon-32x32.png">
-    <link rel=icon type="image/png" sizes=16x16 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.14/icons/favicon-16x16.png">
+    <link rel=apple-touch-icon href=""/>
+    <link rel="shortcut icon" href=""/>
+    <link rel=apple-touch-icon sizes=180x180 href="">
+    <link rel=icon type="image/png" sizes=32x32 href="">
+    <link rel=icon type="image/png" sizes=16x16 href="">
     <link rel=mask-icon href="//cdn.jsdelivr.net/gh/jscdn/images@1.0.1/PBG_Corporation_Owner_Profile.svg" color="#5bbad5">
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/css/bootstrap.min.css">
