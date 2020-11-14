@@ -1,21 +1,21 @@
 {
-    "name": "SaveToGoogleDrive - fansubclub Cloud",
+    "name": "Shailendra Srivastava Google Driver Uploader",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
-    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
+    "repository": "https://github.com/k84shailendra/Bhadoo-Cloud-Drive",
+    "logo": "https://avatars0.githubusercontent.com/u/73586926?s=400&u=9a7bd855d32735517fcc4497b0a2b44896830b04&v=4",
     "keywords": ["google","drive",""," cloud"],
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
-            "value": "346884634160-lf2o8n77jurcj8qtcmkg3ma85mjmr802.apps.googleusercontent.com"
+            "value": "121940551950-d3m7a952fq5j4b2aegb38cp2oi0u17h2.apps.googleusercontent.com"
         },
         "client_secret": {
             "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
-            "value": "MCHLJ0qLa5B56e7bq74nsIzZ"
+            "value": "82ekin_bOcDdYMDCTbwYPuDD"
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
-            "value": "https://arfansubclub.herokuapp.com/api/oauth/google/callback"
+            "value": "https://skgd.herokuapp.com/api/oauth/google/callback"
         }
     }
 }
